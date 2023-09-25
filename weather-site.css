@@ -5,8 +5,9 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #a6d8da;
-    
+    background: linear-gradient(135deg, #5b548a, #35ebba);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .card{
     width: 90% ;
